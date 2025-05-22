@@ -5,7 +5,7 @@ edition = "2024"
 description = "A minimal HTTP server written in pure Rust"
 keywords = ["http", "server", "rust"]
 license-file = "LICENSE"
-categories = ["http", "server"]
+categories = ["web-programming", "web-programming::http-server"]
 readme = "README.md"
 repository = "https://github.com/mi66mc/rblink"
 
